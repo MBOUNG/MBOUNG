@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bonjour, je suis Divine
 
-<!--
-**MBOUNG/MBOUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Titulaire d'un **Mastère Data & Intelligence Artificielle** (HETIC) et d'un **Bachelor Développeur d'Applications** (IESIG), je fiabilise des données et je les rends lisibles. Je cherche mon **premier poste en data** en Île-de-France.
 
-Here are some ideas to get you started:
+## Projets à voir
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Projet | Ce qu'il montre |
+|---|---|
+| [rapprochement-factures-banque](https://github.com/MBOUNG/rapprochement-factures-banque) | Qualité de données : rapprochement automatique de factures et de paiements, score, évaluation, indicateurs en SQL (Python, SQL, Jupyter) |
+| [receipt_matcher](https://github.com/MBOUNG/receipt_matcher) | Rapprochement de factures en images et de relevés bancaires : amélioration d'image, extraction, score de correspondance (projet en binôme, Python) |
+| [steganosaure](https://github.com/MBOUNG/steganosaure) | Stéganographie LSB sur images avec chiffrement de Vigenère (Python) |
+
+## Compétences
+
+**Data** : Python (pandas, NumPy, scikit-learn), SQL, Jupyter, Power BI
+
+**Développement** : Java (Spring Boot), Git/GitHub
+
+**Méthodes** : Agile/Scrum
+
+## Me contacter
+
+[LinkedIn](https://www.linkedin.com/in/marcelinmboungou)
